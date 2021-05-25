@@ -9,3 +9,5 @@
 
 88888888
 test
+Let me practice clone function~
+Yayaya
